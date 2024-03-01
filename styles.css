@@ -1,4 +1,4 @@
-/* Write your CSS here! */
+
 body{
     display: block;
     text-align: center;
@@ -51,7 +51,6 @@ h2{
 p {
     padding-left: 200px;
     padding-right: 200px;
-    /* color: violet; */
     background: linear-gradient(to top, violet,cyan, hotpink);
     background-clip: text;
     color: transparent;
