@@ -1,1 +1,75 @@
 /* Write your CSS here! */
+body{
+    display: block;
+    text-align: center;
+    margin:8px;
+    background-color: black;
+}
+
+#journey{
+    background: linear-gradient(to top, purple, hotpink);
+    background-clip: text;
+    color: transparent;
+    font-size: 100px;
+    font-family: sans-serif;
+    font-weight: 50;
+    letter-spacing: 15px;
+    text-decoration-line: underline;
+    
+}
+
+#mainHeading{
+    color: red;
+}
+
+h2{
+    background: linear-gradient(to top, purple, hotpink);
+    background-clip: text;
+    color: transparent;
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+.Headings{
+    letter-spacing: 15PX;
+}
+
+#dreamer{
+    background: linear-gradient(to right, #ef5350, #f48fb1, #7e57c2, #2196f3, #26c6da, #43a047, #eeff41, #f9a825, #ff5722);
+    background-clip: text;
+    color: transparent;
+}
+
+.Images{
+    border-style:ridge;
+    border-color:   hotpink;
+   
+   
+}
+
+p {
+    padding-left: 200px;
+    padding-right: 200px;
+    /* color: violet; */
+    background: linear-gradient(to top, violet,cyan, hotpink);
+    background-clip: text;
+    color: transparent;
+    font-size: x-large;
+}
+
+.funParagraph{
+    color: green;
+}
+
+.dreamerPar{
+    background: linear-gradient(to right, #ef5350, #f48fb1, #7e57c2, #2196f3, #26c6da, #43a047, #eeff41, #f9a825, #ff5722);
+    background-clip: text;
+    color: transparent;
+}
+
+#copyright{
+    background: linear-gradient(to right, #ef5350, #f48fb1, #7e57c2, #2196f3, #26c6da, #43a047, #eeff41, #f9a825, #ff5722);
+    background-clip: text;
+    color: transparent;
+}
